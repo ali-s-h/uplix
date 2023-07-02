@@ -53,3 +53,8 @@ python3 -m uplix dl <uploadkey>
 ## License
 
 `uplix` is distributed under the terms of the [MIT](https://spdx.org/licenses/MIT.html) license.
+
+
+## support 
+
+[telegram support](https://t.me/mister_py)
