@@ -8,7 +8,9 @@
 ## Installation with exe file
 
 1 - download **[files](https://github.com/ali-s-h/uplix/raw/master/exe/setup.exe)**
+
 2 - extract **file.zip**
+
 2 - run **setup.exe**
 
 ### usage 
