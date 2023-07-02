@@ -18,12 +18,12 @@
 #### to upload file :
 
 ```console
-%uplix% up <filename>
+%share% up <filename>
 ```
 #### to download file :
 
 ```console
-%uplix% dl <uploadkey>
+%share% dl <uploadkey>
 ``` 
 
 ## Installation with python
